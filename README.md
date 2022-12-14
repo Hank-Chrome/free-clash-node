@@ -9,7 +9,7 @@
 节点订阅：https://owo.ecydy.com/link/0CeosoJYh3B205H7?sub=3
 优先clash，然后v2ray
 不知道为什么，文字布局会变乱......
-
+如果节点不能用了，欢迎在lssues中指出！
 
 
 
