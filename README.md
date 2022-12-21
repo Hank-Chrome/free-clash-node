@@ -1,12 +1,15 @@
 # free-clash-node
 免费clash节点！亲测可用！高速！
 订阅地址：https://owo.ecydy.com/link/0CeosoJYh3B205H7?clash=1
+订阅地址2：https://whoisyourdady.gfw-wdnmd.com/link/m56QrQsCGt4flvcm?clash=1
+
 
 使用教程：https://hank-chrome.github.io/
 请节约使用！不然节点很快就会跑完失效，影响他人使用体验。并且我以后也会持续更新，喜欢给个star吧！
 如果clash用不了，就用v2ray，下载连接：https://github.com/2dust/v2rayN/releases/tag/5.38
 使用教程：https://v2rayn.org/
 节点订阅：https://owo.ecydy.com/link/0CeosoJYh3B205H7?sub=3
+节点2：https://whoisyourdady.gfw-wdnmd.com/link/m56QrQsCGt4flvcm?sub=3
 
 还有v2ray的节点，复制粘贴到v2ray：
 vmess://eyJhZGQiOiJ2MnJheTIudWRwZ3cuY29tIiwiYWlkIjoiMCIsImlkIjoiN2M5OTlkZDItMjg5Ny00OWVkLWE5YzUtMDI3MzU2MGY4OTg1IiwiaG9zdCI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii93b3JyeWZyZWUiLCJwb3J0IjoiNDQzIiwicHMiOiJ2MnJheTIudWRwZ3cuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
