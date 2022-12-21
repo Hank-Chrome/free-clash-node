@@ -28,4 +28,4 @@ vmess://eyJ2IjoyLCJwcyI6IlVTLXYxNDktaHR0cHM6Ly9naXQuaW8vdjJmcmVlIiwiYWRkIjoidjE0
 
 
 
-注意：1节点节约使用 2不要翻译此网页。
+注意：1节点节约使用 2不要翻译此网页。 3.紧张BT、ed2k以及任何违法犯罪活动！
