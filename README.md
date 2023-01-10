@@ -1,7 +1,7 @@
 # free-clash-node
 免费clash节点！亲测可用！高速！
-订阅地址：https://yuyan.online/api/v1/client/subscribe?token=6f1deec5a2b579444207528322c94c05
-订阅地址2：https://whoisyourdady.gfw-wdnmd.com/link/m56QrQsCGt4flvcm?clash=1
+订阅地址：woc，牛啊，几十G一天就用完了
+订阅地址2：https://getafreenode.com/subscribe/?uuid=A15C08AE-9837-FD04-4FEC-9ADF2E5F6A9E
 
 
 使用教程：https://hank-chrome.github.io/
