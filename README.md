@@ -8,5 +8,6 @@ v2ray订阅地址:https://sub.xeton.dev/sub?target=v2ray&url=vmess%3A%2F%2FeyJ2I
 
 订阅地址2：https://yyds.fovi.tk/psboruc34813owyhr.html
 订阅地址3：https://whoisyourdady.gfw-wdnmd.com/link/m56QrQsCGt4flvcm?sub=3
-
+goo.gs/eba03
+让你高速翻墙，不在寻找！
 注意：1节点节约使用 2.禁止BT、ed2k以及任何违法犯罪活动！
